@@ -599,6 +599,7 @@ fi
 
 ![Alt text](img/70.png)
 
+
 # using numeric test comparisons
 
 cat > iftest.sh 
